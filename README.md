@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Metallec
-- 👀 I’m interested in BodyBuilding.
 - 🌱 I’m currently learning JS.
 
 
